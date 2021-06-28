@@ -25,8 +25,8 @@ footer: MIT Licensed | Copyright © 2020-present Gmaso
 
 ## [hello-world](./2020/hello-world.md)
 
-## [Linux 开发环境配置](./2020/Linux-开发环境配置.md)
+## [Linux 开发环境配置](./2020/Linux-env-config.md)
 
-## [写作](./2020/写.md)
+## [写作](./2020/write-more.md)
 
-## [博客部署](./2020/博客部署.md)
+## [博客部署](./2020/deploy-blog.md)

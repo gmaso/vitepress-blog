@@ -6,8 +6,8 @@
 
 ## [hello-world](./hello-world.md)
 
-## [Linux 开发环境配置](./Linux-开发环境配置.md)
+## [Linux 开发环境配置](./Linux-env-config.md)
 
-## [写作](./写.md)
+## [写作](./write-more.md)
 
-## [博客部署](./博客部署.md)
+## [博客部署](./deploy-blog.md)
