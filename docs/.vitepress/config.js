@@ -4,6 +4,7 @@ module.exports = {
   lang: 'zh-CN',
   home: true,
   head: [
+    ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
     // 设置 描述 和 关键词
     [
       "meta",
